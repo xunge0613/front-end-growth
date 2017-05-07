@@ -18,18 +18,19 @@
 ## How I learn Vue.js 
 
 Done
-- 通读官方文档（Guide、API、Examples）
+- 泛读官方文档（Guide、API、Examples）
 - 动手写小 Demo
 - 阅读优秀项目源码（Hacker News、Vuestrap、ElementUI）
 - 安利其他同事学习、使用 Vue.js
-- 熟读官方文档（Guide、API）
+- 通读官方文档（Guide、API）
 - 了解 Vue.js 实现原理
 - 使用 Vue.js 开发公司后台管理系统 UI 组件库
 - 使用 Vue.js 开发公司后台管理系统站点
-- 精读官方文档（Guide、API）
+- 熟读官方文档（Guide、API）
 
 To Do
 - 动手实现 Vue.js 基本功能
+- 精熟并思考读官方文档为何这般设计（Guide、API）
 
 
 ## What should be learned Step by Step
