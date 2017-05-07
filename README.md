@@ -3,15 +3,22 @@
 @(Front End Growth)[前端开发, JavaScript, github]
 
 Another `Growth` repository…… 
+
 A record of [XX's](http://xuxun.me) front end growth roadmap.
+
 记录 [XX](http://xuxun.me)  前端成长过程的点滴。
+
 仅供参考，也许不具备通用性，请结合自身实际，切勿强行模仿~ 
 
 ## Tech Growth
 
 Growth Vue: [Growth Vue]()
+
 Growth CSS: To be continued
-Growth Refactor:  To be continued
+
+Growth 小程序: To be continued
+
+Growth Website Refactor:  To be continued
 
 ## Team Growth
 
