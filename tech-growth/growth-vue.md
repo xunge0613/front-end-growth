@@ -30,7 +30,7 @@ Done
 
 To Do
 - 动手实现 Vue.js 基本功能
-- 精熟并思考读官方文档为何这般设计（Guide、API）
+- 精读并思考读官方文档为何这般设计（Guide、API）
 
 
 ## What should be learned Step by Step
