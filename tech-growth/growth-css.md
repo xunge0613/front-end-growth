@@ -19,16 +19,16 @@
 也是一门需要一些技巧或工具来优雅编码的伪 OO 语言
 
 - 面向对象
-  - 继承 .parent .child / .parent() {} .child { .parent(); }
-  - 扩展 .classA.classB / .classA() {} .classB() {} .classC() {} .classFinal {.classA(); .classC(); } 
+  - 继承  .parent{styleA: xxx;} .child { styleA: inherit; } / .parent() {} .child { .parent(); }
+  - 扩展 .classA.classB / .classA() {} .classB() {} .classC() {} .classFinal {.classA(); .classC(); style:xxx;} 
   - 重载 .classA.classB .classA { xx: oo}  .classB { xx: xx} 
 
 - 代码规范
-  - 代码复用 DRY （Less）
-  - BEM
-  - 变量、函数命名
-  - 权重控制
-  - 语义性
+ - 代码复用 DRY （Less）
+ - BEM
+ - 变量、函数命名
+ - 权重控制
+ - 语义性
 
 ## How I learn CSS
 
@@ -53,7 +53,7 @@
   - 权重控制
   - 嵌套层级
 - 可控颗粒度
-
+- 调试技巧
 
 ### CSS Code Standards
 
