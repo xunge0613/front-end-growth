@@ -17,7 +17,26 @@ A record of [XX's](http://xuxun.me) front end growth roadmap.
 
 > 我们都在路上，而我不是成功的例子，你可能不会在这里找到答案，只希望借此激发大家的一点思考。
 
+## Growth Structure
+
+- Tech 技术
+   - Basics 基础能力
+   - Common 通用技能
+   - Specialty 领域专有
+   - Relation 相关联技能
+- Business 业务
+   - Production 产品生命周期
+   - Requirement 需求
+   - ...
+- Team 团队
+   - Cooperation 协作
+   - ...
+- Personality 个人
+   - ...
 ## Tech Growth
+
+
+### Specialty 
 
 Growth HTML: To be continued
 
@@ -25,13 +44,19 @@ Growth CSS: [Growth CSS](https://github.com/xunge0613/front-end-growth/blob/mast
 
 Growth Javascript: To be continued
 
-Growth Vue: [Growth Vue](https://github.com/xunge0613/front-end-growth)
+Growth Vue: [Growth Vue](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/growth-vue.md)
 
 Growth 小程序: To be continued
 
 Growth Website Refactor:  To be continued
 
+### Relation
+
 Growth Interaction Consideration:  To be continued
+
+### Common
+
+### Basics 
 
 Growth English: To be continued
 
@@ -70,6 +95,10 @@ Outlines on building a better front end team: [growth-front-end-team-leader](htt
 
 
 ## Changelog
+
+v 0.0.4 Add wechat payment
+- add wechat payment
+- add Growth Structure
 
 v 0.0.3 Add Growth CSS
 
