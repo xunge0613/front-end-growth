@@ -6,7 +6,7 @@ Another `Growth` records……
 
 A record of [XX's](http://xuxun.me) front end growth roadmap.
 
-记录 [XX](http://xuxun.me)  前端成长过程的点滴。
+记录 [XX](http://xuxun.me)  前端成长过程的点滴，一些经验、一些反思。
 
 仅供参考，也许不具备通用性，请结合自身实际，切勿强行模仿~ 
 
@@ -32,6 +32,8 @@ Growth 小程序: To be continued
 Growth Website Refactor:  To be continued
 
 Growth Interaction Consideration:  To be continued
+
+Growth English: To be continued
 
 ## Team Growth
 
@@ -67,7 +69,6 @@ Outlines on building a better front end team: [growth-front-end-team-leader](htt
 -------
 
 
-
 ## Changelog
 
 v 0.0.3 Add Growth CSS
@@ -82,10 +83,11 @@ v 0.0.1 Front End Rethink, init with [growth-front-end-team-leader](https://gith
 
 ## Contribution
 
-
-
 微信公众号： 清风迅来
 
+有钱的捧个钱场~
+
+![有钱的捧个钱场~](http://o7q107fd8.bkt.clouddn.com/image/github/wechat-payment.jpg)
 
 ## License
 
@@ -93,4 +95,6 @@ MIT
 
 ## Thanks
 
-Inspired by  [phodal](https://github.com/phodal/)
+Inspired by  [phodal](https://github.com/phodal/)、[刘未鹏](http://mindhacks.cn)
+
+
