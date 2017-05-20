@@ -20,10 +20,10 @@ A record of [XX's](http://xuxun.me) front end growth roadmap.
 ## Growth Structure
 
 - Tech 技术
-   - Basics 基础能力
+   - Basic 基础能力
    - Common 通用技能
-   - Specialty 领域专有
-   - Relation 相关联技能
+   - Special 领域专有
+   - Related 相关联技能、交叉
 - Business 业务
    - Production 产品生命周期
    - Requirement 需求
@@ -33,10 +33,11 @@ A record of [XX's](http://xuxun.me) front end growth roadmap.
    - ...
 - Personality 个人
    - ...
+
 ## Tech Growth
 
 
-### Specialty 
+### Special
 
 Growth HTML: To be continued
 
@@ -50,13 +51,13 @@ Growth 小程序: To be continued
 
 Growth Website Refactor:  To be continued
 
-### Relation
+### Related
 
 Growth Interaction Consideration:  To be continued
 
 ### Common
 
-### Basics 
+### Basic
 
 Growth English: To be continued
 
@@ -91,10 +92,18 @@ Outlines on building a better front end team: [growth-front-end-team-leader](htt
 只是想说，首先是一个正常人，然后才是一个程序员。
 
 
+## Resources
+
+- [Booklist](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/booklist.md)
+
+
+
 -------
 
 
 ## Changelog
+
+v 0.0.5 Add [Booklist](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/booklist.md)
 
 v 0.0.4 Add wechat payment
 - add wechat payment
