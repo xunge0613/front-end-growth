@@ -41,6 +41,9 @@ XX 在此献丑了，权当抛砖引玉。
       -  Write 可维护性
       -  Reuse 可复用性
       -  Reconsitution 重构
+      -  Monitor 监控
+      -  Fallback 回退
+      -  Auto- 自动化
    - Special 领域专有
       - HTML
       - [CSS](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/growth-css.md)
@@ -51,13 +54,14 @@ XX 在此献丑了，权当抛砖引玉。
       - Product 产品
       -  
    - ...
-- Business 实际业务
+- Business 业务能力
    - Production 产品生命周期
    - Requirement 需求
    - ...
 - Team 团队贡献
    - Cooperation 协作
    - Encouragement 激励
+   - Review 复查
    - Wiki 知识库
       - Specifications 规范
       - Documentations 文档
@@ -67,6 +71,7 @@ XX 在此献丑了，权当抛砖引玉。
 - Personality 个人素质
    -  Responsibility 责任心
    -  Positivity 正能量
+   -  Health 健康
    - ...
 
 ## Tech Growth
@@ -128,8 +133,8 @@ Outlines on building a better front end team: [growth-front-end-team-leader](htt
 
 ## Resources
 
-- [Book list](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/booklist.md)
-- [Blog list](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/blog-list.md)
+- [book list](https://github.com/xunge0613/front-end-growth/blob/master/resources/book-list.md)
+- [blog list](https://github.com/xunge0613/front-end-growth/blob/master/resources/blog-list.md)
 
 
 -------
@@ -137,12 +142,12 @@ Outlines on building a better front end team: [growth-front-end-team-leader](htt
 
 ## Changelog
 
-v 0.0.6 Add [Blog list](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/blog-list.md)
+v 0.0.6 Add [blog list](https://github.com/xunge0613/front-end-growth/blob/master/resources/blog-list.md)
  - add Blog List
  - detail *Tech*
  - add *Basics*
 
-v 0.0.5 Add [Booklist](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/booklist.md)
+v 0.0.5 Add [book list](https://github.com/xunge0613/front-end-growth/blob/master/resources/book-list.md)
 
 v 0.0.4 Add wechat payment
 - add wechat payment
