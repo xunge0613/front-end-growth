@@ -12,30 +12,64 @@ A record of [XX's](http://xuxun.me) front end growth roadmap.
 
 阅读过程中遇到任何问题，欢迎以issue的形式提出来，这样可以帮助其他读者来发现这个问题。
 
-
 最后，摘录某大神的一段话：
 
 > 我们都在路上，而我不是成功的例子，你可能不会在这里找到答案，只希望借此激发大家的一点思考。
 
+XX 在此献丑了，权当抛砖引玉。
+
 ## Growth Structure
 
-- Tech 技术
-   - Basic 基础能力
-   - Common 通用技能
+- Basics 基础能力
+   - Typing 手速
+   - Analysis 分析
+   - Search 搜索
+   - Question 提问
+   - Logics 逻辑
+   - English 英文
+   - Sovle 解决问题
+   - Abstract 抽象
+   - Rethink 反思
+   - ...
+
+- Tech 技术水平
+   - Common 通用技术
+      -  Debug 
+      -  Test 代码测试
+      -  Lint 代码审查
+      -  Read 可读性
+      -  Write 可维护性
+      -  Reuse 可复用性
+      -  Reconsitution 重构
    - Special 领域专有
+      - HTML
+      - [CSS](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/growth-css.md)
+      - Javascript
    - Related 相关联技能、交叉
-- Business 业务
+      - Testing 测试
+      - Design 设计
+      - Product 产品
+      -  
+   - ...
+- Business 实际业务
    - Production 产品生命周期
    - Requirement 需求
    - ...
-- Team 团队
+- Team 团队贡献
    - Cooperation 协作
+   - Encouragement 激励
+   - Wiki 知识库
+      - Specifications 规范
+      - Documentations 文档
+      - Experience 经验（踩坑心得）
+      - Best Practice 最佳实践
    - ...
-- Personality 个人
+- Personality 个人素质
+   -  Responsibility 责任心
+   -  Positivity 正能量
    - ...
 
 ## Tech Growth
-
 
 ### Special
 
@@ -94,14 +128,19 @@ Outlines on building a better front end team: [growth-front-end-team-leader](htt
 
 ## Resources
 
-- [Booklist](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/booklist.md)
-
+- [Book list](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/booklist.md)
+- [Blog list](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/blog-list.md)
 
 
 -------
 
 
 ## Changelog
+
+v 0.0.6 Add [Blog list](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/blog-list.md)
+ - add Blog List
+ - detail *Tech*
+ - add *Basics*
 
 v 0.0.5 Add [Booklist](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/booklist.md)
 
