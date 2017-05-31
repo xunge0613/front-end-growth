@@ -104,6 +104,8 @@ Growth English: To be continued
 
 Outlines on building a better front end team: [growth-front-end-team-leader](https://github.com/xunge0613/front-end-growth/blob/master/team-growth/growth-front-end-team-leader.md)
 
+Outlines on building an internship system:[weave-dreams-for-interns](https://github.com/xunge0613/front-end-growth/blob/master/team-growth/weave-dreams-for-interns.md)
+
 
 ## Suggestions
 
@@ -141,6 +143,8 @@ Outlines on building a better front end team: [growth-front-end-team-leader](htt
 
 
 ## Changelog
+
+v 0.0.7 Add [weave-dreams-for-interns](https://github.com/xunge0613/front-end-growth/blob/master/team-growth/weave-dreams-for-interns.md)
 
 v 0.0.6 Add [blog list](https://github.com/xunge0613/front-end-growth/blob/master/resources/blog-list.md)
  - add Blog List
