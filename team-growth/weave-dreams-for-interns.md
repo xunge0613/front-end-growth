@@ -375,7 +375,7 @@
 #### 专业能力
 
 《代码大全 2》
-《CSS 揭秘》
+《CSS 禅意花园》、《CSS 揭秘》
 《Javascript 高级程序设计》 
 《Head First 设计模式》
  
