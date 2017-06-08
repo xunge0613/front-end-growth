@@ -920,8 +920,12 @@ v 0.0.2 内容迭代
 
 若有帮助，尽情打赏！^_^
 
+ps: 好像图片有点大=。=
+
 ![如果有帮助，欢迎打赏~](http://o7q107fd8.bkt.clouddn.com/image/github/alipay-payment.jpg)
 ![如果有帮助，欢迎打赏~](http://o7q107fd8.bkt.clouddn.com/image/github/wechat-payment.jpg)
+
+
 
 
 ## 许可
