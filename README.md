@@ -18,6 +18,10 @@ A record of [XX's](http://xuxun.me) front end growth roadmap.
 
 XX 在此献丑了，权当抛砖引玉。
 
+## Growth Map
+
+[Growth Front-End Knowledge Summary 前端开发知识点整理](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/growth-front-end-summary.md)
+
 ## Growth Structure
 
 - Basics 基础能力
@@ -57,9 +61,13 @@ XX 在此献丑了，权当抛砖引玉。
 - Business 业务能力
    - Production 产品生命周期
    - Requirement 需求
+   - Architecture 技术选型
    - ...
 - Team 团队贡献
    - Cooperation 协作
+   - Communication 交流
+   - Share 分享
+      - Presentation 演说
    - Encouragement 激励
    - Review 复查
    - Wiki 知识库
@@ -104,8 +112,6 @@ Growth English: To be continued
 
 Outlines on building a better front end team: [growth-front-end-team-leader](https://github.com/xunge0613/front-end-growth/blob/master/team-growth/growth-front-end-team-leader.md)
 
-Outlines on building an internship system:[weave-dreams-for-interns](https://github.com/xunge0613/front-end-growth/blob/master/team-growth/weave-dreams-for-interns.md)
-
 
 ## Suggestions
 
@@ -137,31 +143,31 @@ Outlines on building an internship system:[weave-dreams-for-interns](https://git
 
 - [book list](https://github.com/xunge0613/front-end-growth/blob/master/resources/book-list.md)
 - [blog list](https://github.com/xunge0613/front-end-growth/blob/master/resources/blog-list.md)
-
+- [tool list](#)
 
 -------
 
 
 ## Changelog
 
-v 0.0.7 Add [weave-dreams-for-interns](https://github.com/xunge0613/front-end-growth/blob/master/team-growth/weave-dreams-for-interns.md)
+v 0.0.7 add [tool list](#)
 
-v 0.0.6 Add [blog list](https://github.com/xunge0613/front-end-growth/blob/master/resources/blog-list.md)
+v 0.0.6 add [blog list](https://github.com/xunge0613/front-end-growth/blob/master/resources/blog-list.md)
  - add Blog List
  - detail *Tech*
  - add *Basics*
 
-v 0.0.5 Add [book list](https://github.com/xunge0613/front-end-growth/blob/master/resources/book-list.md)
+v 0.0.5 add [book list](https://github.com/xunge0613/front-end-growth/blob/master/resources/book-list.md)
 
-v 0.0.4 Add wechat payment
+v 0.0.4 add wechat payment
 - add wechat payment
 - add Growth Structure
 
-v 0.0.3 Add Growth CSS
+v 0.0.3 add Growth CSS
 
 - add [Growth CSS](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/growth-css.md)
 
-v 0.0.2 Rename as Front End Growth, once named Front End Rethink
+v 0.0.2 rename as Front End Growth, once named Front End Rethink
 - inspired by [phodal](https://github.com/phodal/)
 - add [Growth Vue](https://github.com/xunge0613/front-end-growth/blob/master/tech-growth/growth-vue.md)
 
